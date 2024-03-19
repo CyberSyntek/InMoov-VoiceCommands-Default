@@ -2,6 +2,12 @@
 Default built-in InMoov voice commands
 =
 
+This is a complete list of all the various built-in InMoov voice commands. 
+- I still am working out how to sort them into catagories and what info should be attached to them.
+- Very much a work in progress, likely will be for some time. 
+- USE WITH CAUTION. I plan to sort out which is safe to turn and which isn't. 
+
+
 "REST"
 
 "ATTACH HEAD"
