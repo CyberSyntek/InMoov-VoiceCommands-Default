@@ -122,7 +122,7 @@ Default built-in InMoov voice commands
 
 "VOICE CONTROL"
 
-"STOP LISTENING" ###MAKE A MUTE MICROPHONE GESTURE / START MICROPHONE GESTURE
+"STOP LISTENING" 
 
 "FULL SPEED"
 
@@ -472,5 +472,5 @@ Default built-in InMoov voice commands
 
 "CHECK_BINDING"
 
-"DO GESTURE *"      #SERVOMIXER RELATED
+"DO GESTURE *"     ```SERVOMIXER RELATED```
 
